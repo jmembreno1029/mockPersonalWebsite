@@ -24,3 +24,17 @@ xhttp.send();
 
 }
 
+$(document).ready(function(){
+    $(".fa").hover(function(){
+        $(this).css("transform", "scale(1.5)");
+        }, function(){
+        $(this).css("transform", "scale(1)");
+    });
+});
+
+$(document).ready(function(){
+    $("button").click(function(){
+        $("#repoBtn").toggle();
+    });
+});
+

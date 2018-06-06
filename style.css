@@ -28,3 +28,9 @@ body {
 /* .fixed-bottom {
     text-align: center;
 } */
+
+/* 
+THIS ONE WORKS
+.zoom:hover {
+    transform: scale(1.5); 
+} */
