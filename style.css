@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+body {
+    background-color: rgb(171, 219, 228);
+    font-family: 'Philosopher', sans-serif;
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 85px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.navbar fixedbottom {
+    align-content: center;
+}
